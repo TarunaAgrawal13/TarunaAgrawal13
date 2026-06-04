@@ -61,4 +61,5 @@
 
 <p align="center">
   <i>Code • Debug • Build • Repeat</i>
+  Let's build something meaningful togther
 </p>
