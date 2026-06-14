@@ -56,7 +56,7 @@
 ---
 
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/> -->
 </p>
 
 <p align="center">
