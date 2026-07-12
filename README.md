@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Build Today, Serve Tomorrow </h1>
+<h1 align="center">🚀 Build Today, Serve Tomorrow better</h1>
 
 <p align="center">
   <b>Taruna Agrawal</b><br/>
